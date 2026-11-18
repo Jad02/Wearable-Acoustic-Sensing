@@ -36,7 +36,7 @@ Python · C · MATLAB · Embedded Systems · Signal Processing · Mechanical Tes
 
 ## Publication
 
-*Wearable, fabric-embedded acoustic waveguides for meter-scale contact localization and force sensing.*
+[*Wearable, fabric-embedded acoustic waveguides for meter-scale contact localization and force sensing.*](Wearable_Fabric-Embedded_Acoustic_Waveguides_for_Meter-Scale_Contact_Localization_and_Force_Sensing.pdf)
 
 ICRA 2026 — Co-author
 
