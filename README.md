@@ -2,8 +2,6 @@
 **McGill MACRObotics Lab | Robotics Research | ICRA 2026**
 Wearable acoustic waveguide sensing for contact localization and force estimation along robotic arms.
 
-![Wearable Acoustic Sensing Sleeve](assets/hero.jpg)
-
 ## Overview
 
 This project explores the use of fabric-embedded acoustic waveguides for contact localization and force estimation in wearable sensing systems.
@@ -30,7 +28,7 @@ Experimental results, system photographs, and demonstration videos are presented
 
 ### Research Poster
 
-[View Research Poster (PDF)](assets/poster.pdf)
+[View Research Poster (PDF)](assets/SURE_poster.pdf)
 
 ## Technologies and Methods
 
