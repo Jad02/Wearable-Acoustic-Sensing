@@ -28,7 +28,7 @@ Experimental results, system photographs, and demonstration videos are presented
 
 ### Research Poster
 
-[View Research Poster (PDF)](assets/SURE_poster.pdf)
+[View Research Poster (PDF)](SURE_poster.pdf)
 
 ## Technologies and Methods
 
